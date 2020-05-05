@@ -4,7 +4,7 @@
 
   - ☝️What is a README file?
 
-  - 🙋A text file written using Markdown that describes the repository, what it does, how to use it, who built it etc.
+  - 🙋A text file written using Markdown that describes the repository, what it does, how to use it, who built it, etc.
 
   - ☝️ Why are they important?
 
@@ -12,7 +12,7 @@
 
   - ☝️And what should we include in order to make it a good, high-quality README that we would want employers to see?
 
-  - 🙋A README should include a a project title, the technology used, screen shots, installation instructions, instructions on how to use it, tets, any credits you need to give, as well as contributors.
+  - 🙋A README should include a a project title, the technology used, screen shots, installation instructions, instructions on how to use it, tests, any credits you need to give, as well as contributors.
 
 - Show students how to pin a repository in GitHub. Navigate to `www.github.com/<yourUsername>` and click `Customize your pins`:
 
@@ -53,7 +53,7 @@
   - ☝️ OK, and why?
 
   - 🙋 It's better because it has a unique app title and subsections but:
-    - the images are broken
+    - The images are broken
     - No installation instructions
     - No license
     - No LinkedIn

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the first in a series of three on Big O Notation. While Big O Notation is not something that developers will work on directly every day in industry, it is a) a commonly used interview topic and b) and important concept for developers to understand and consider in their application development.
+This is the first in a series of three on Big O Notation. While Big O Notation is not something that developers will work on directly every day in industry, it is a) a commonly used interview topic and b) an important concept for developers to understand and consider in their application development.
 
 ### Learning Objectives
 
@@ -76,8 +76,7 @@ Open up your browser to the coding challenges for this workshop as described abo
 
 Explain that there are two different challenges they can try, but whichever one they pick, they should stick with it throughout the workshop.
 
-E-1 is the easier activity of the two
-C-1 is the “challenge” activity
+E-1 is the easier activity of the two. C-1 is the “challenge” activity.
 
 Students should feel comfortable tackling which ever activity matches their experience level in the program.
 

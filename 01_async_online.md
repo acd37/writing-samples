@@ -50,7 +50,7 @@ Some of the most common job titles you'll encounter in programming include Web A
 
 #### Step #2: Develop Your JavaScript Skills
 
-You want to get better at JavaScript, but how do you know where to start? to As a beginner, you might find it difficult to filter through the vast amount of JavaScript resources on the internet.
+You want to get better at JavaScript, but how do you know where to start? As a beginner, you might find it difficult to filter through the vast amount of JavaScript resources on the internet.
 
 Here's an plan of approach to help you get started:
 
