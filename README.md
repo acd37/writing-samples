@@ -15,3 +15,11 @@ Hey! Thanks for checking out this repository of writing samples. Here you'll fin
 5. A video script for an introduction to jQuery for an online bootcamp program.
 
 6. A video script for an introduction to JSON for an online bootcamp program.
+
+### About
+
+You can also visit me at:
+
+- LinkedIn: [linkedin.com/in/alecdown](https://linkedin.com/in/alecdown)
+- Site: [alecdown.com](https://alecdown.com)
+- Email: alecdown@gmail.com
